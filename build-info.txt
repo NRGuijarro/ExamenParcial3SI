@@ -1,5 +1,5 @@
 Estudiante: Nelson
 Curso: 4to Semestre
 Examen: Parcial 3
-Fecha: Tue Feb  3 22:50:44 UTC 2026
-Commit: 3c8866f037242d5a8d9fcb4fe265f837ddc66c00
+Fecha: Tue Feb  3 22:59:05 UTC 2026
+Commit: 23cdf7ca87a9f5a7da986f211771fc216d18d40d
