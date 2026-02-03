@@ -26,10 +26,10 @@ jobs:
       - name: Validar HTML
         run: |
           echo "Validando archivo HTML..."
-          if [ -f "index_token.html" ]; then
-            echo "Archivo index_token.html encontrado"
-            echo "Líneas de código: $(wc -l < index_token.html)"
-            echo "Tamaño: $(du -h index_token.html | cut -f1)"
+          if [ -f "index.html" ]; then
+            echo "Archivo index.html encontrado"
+            echo "Líneas de código: $(wc -l < index.html)"
+            echo "Tamaño: $(du -h index.html | cut -f1)"
           else
             echo "Error: No se encontró index_token.html"
             exit 1
